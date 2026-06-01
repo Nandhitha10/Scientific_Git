@@ -30,8 +30,8 @@ Step 7: Save and run the application.
  ```
 
 Program to create Scientific calculator using Android Studio.
-Developed by:    THEJA SREE G
-RegisterNumber:   212224110056
+Developed by:    NANDHITHA S
+RegisterNumber:   212224220069
 
 ```
 
